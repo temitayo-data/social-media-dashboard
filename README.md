@@ -64,8 +64,6 @@ This project analyzes LinkedIn post performance to understand what drives reach,
 
 ## Recommendations
 - Use **Video** content for maximum reach and awareness.
-- Prioritize **Feed** content to maximize engagement rate and viral probability.
-- Schedule posts around **8 PM** to capture peak audience activity.
 - Focus content strategy around **Entertainment** and **Sports** themes.
 - Build a balanced content mix: **Video for scale** + **Feed for efficiency/virality**.
 
